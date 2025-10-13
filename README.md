@@ -8,18 +8,18 @@
 - Exploring Docker, virtualization, and automation through my homelab setup
 
 ## Skill Stacks
-<p align="left">
-  <a href="https://www.linux.org/pages/download/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=light" title="Linux" width="48" height="48"/></a>
-  <a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu&theme=light" title="Ubuntu" width="48" height="48"/></a>
-  <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://skillicons.dev/icons?i=windows&theme=light" title="Windows" width="48" height="48"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=light" title="Amazon Web Services (AWS)" width="48" height="48"/></a>
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure&theme=light" title="Microsoft Azure" width="48" height="48"/></a>
+<p align="center">
+  <a href="https://www.linux.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=light" title="Linux" alt="Linux" width="48" height="48"/></a>
+  <a href="https://ubuntu.com" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu&theme=light" title="Ubuntu" alt="Ubuntu" width="48" height="48"/></a>
+  <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://skillicons.dev/icons?i=windows&theme=light" title="Windows" alt="Windows" width="48" height="48"/></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=light" title="Amazon Web Services (AWS)" alt="AWS" width="48" height="48"/></a>
+  <a href="https://azure.microsoft.com" target="_blank"><img src="https://skillicons.dev/icons?i=azure&theme=light" title="Microsoft Azure" alt="Azure" width="48" height="48"/></a>
   <br/>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=light" title="Docker" width="48" height="48"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=light" title="MySQL" width="48" height="48"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=light" title="Python" width="48" height="48"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=light" title="Java" width="48" height="48"/></a>
-  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://skillicons.dev/icons?i=powershell&theme=light" title="PowerShell" width="48" height="48"/></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=light" title="Docker" alt="Docker" width="48" height="48"/></a>
+  <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=light" title="MySQL" alt="MySQL" width="48" height="48"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=light" title="Python" alt="Python" width="48" height="48"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=light" title="Java" alt="Java" width="48" height="48"/></a>
+  <a href="https://learn.microsoft.com/powershell" target="_blank"><img src="https://skillicons.dev/icons?i=powershell&theme=light" title="Powershell" alt="Powershell" width="48" height="48"/></a>
 </p>
 
 ---
