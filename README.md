@@ -4,11 +4,11 @@
 ## All About Me
 - Junior at PUP Sta. Mesa, Institute of Technology
 - Passionate about networking, cloud computing, and self-hosted environments  
-- Currently learning cloud services (AWS and Microsoft Azure)  
-- Exploring Docker, virtualization, and automation through my homelab setup
+- Currently learning cloud services (AWS and Azure)  
+- Exploring containerization, virtualization, and automation through my homelab setup
 
 ## Skill Stacks
-<p align="center">
+<p align="left">
   <a href="https://www.linux.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=light" title="Linux" alt="Linux" width="48" height="48"/></a>
   <a href="https://ubuntu.com" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu&theme=light" title="Ubuntu" alt="Ubuntu" width="48" height="48"/></a>
   <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://skillicons.dev/icons?i=windows&theme=light" title="Windows" alt="Windows" width="48" height="48"/></a>
@@ -25,8 +25,8 @@
 ---
 ## Links
 - <a href="https://www.linkedin.com/in/charlesterrenal/">LinkedIn</a>
-- <a href="https://https://github.com/charlesterrenal//">GitHub</a>
+- <a href="https://www.github.com/charlesterrenal//">GitHub</a>
 - <a href="https://www.instagram.com/charleiterrenal/" target="blank">Instagram</a>
-- <a href="https://www.facebook.com/charleiterrenal1/" target="blank">Facebook</a>
+- <a href="https://www.facebook.com/charlesterrenal1/" target="blank">Facebook</a>
 
 ![](https://komarev.com/ghpvc/?username=charlesterrenal&label=Profile+Views&color=0e75b6&style=flat)
