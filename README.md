@@ -3,9 +3,8 @@
 
 ## All About Me
 - Junior at PUP Sta. Mesa, Institute of Technology
-- Passionate about networking, cloud computing, and self-hosted environments  
-- Currently learning cloud services (AWS and Azure)  
-- Exploring containerization, virtualization, and automation through my homelab setup
+- Passionate about networking, cloud computing, self-hosted environments, and automation. 
+- Exploring containerization, virtualization, and automation through my homelab setup.
 
 ## Skill Stacks
 <p align="left">
