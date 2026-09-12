@@ -1,30 +1,40 @@
-# Hello! I'm Charles! 😎
-**`Computer Engineering Technology Student`** 
+# hi, i'm charles.
 
-## All About Me
-- Junior at PUP Sta. Mesa, Institute of Technology
-- Passionate about networking, cloud computing, self-hosted environments, and automation. 
-- Exploring networking, virtualization, and automation through my homelab setup.
+- tech intern at **stellarph**
+- cpe student at **pup sta. mesa** 
 
-## Skill Stacks
-<p align="left">
-  <a href="https://www.linux.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=light" title="Linux" alt="Linux" width="48" height="48"/></a>
-  <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://skillicons.dev/icons?i=windows&theme=light" title="Windows" alt="Windows" width="48" height="48"/></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp&theme=light" title="GCP" alt="GCP" width="48" height="48"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=light" title="Amazon Web Services (AWS)" alt="AWS" width="48" height="48"/></a>
-  <a href="https://azure.microsoft.com" target="_blank"><img src="https://skillicons.dev/icons?i=azure&theme=light" title="Microsoft Azure" alt="Azure" width="48" height="48"/></a>
-  <br/>
-  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=light" title="Docker" alt="Docker" width="48" height="48"/></a>
-  <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=light" title="MySQL" alt="MySQL" width="48" height="48"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=light" title="Python" alt="Python" width="48" height="48"/></a>
-  <a href="https://obsidian.md/" target="_blank"><img src="https://skillicons.dev/icons?i=obsidian&theme=light" title="Obsidian" alt="Obsidian" width="48" height="48"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=light" title="Git" alt="Git" width="48" height="48"/></a>
-</p>
+i work on homelab infrastructure, networking, and internal tools.
+
+- **systems:** proxmox home server running containers, remote access, and local services
+- **networking:** cisco switches, vlans, network simulation, and packet analysis
+- **automation & web:** scripts and pipelines with bash and `n8n`; web apps with python and react
 
 ---
-## Links
-- <a href="https://www.linkedin.com/in/charlesterrenal/">LinkedIn</a>
-- <a href="https://www.instagram.com/charleiterrenal/" target="blank">Instagram</a>
-- <a href="https://www.facebook.com/charlesterrenal1/" target="blank">Facebook</a>
 
-![](https://komarev.com/ghpvc/?username=charlesterrenal&label=Profile+Views&color=0e75b6&style=flat)
+## projects
+
+- **pve-dashboard**  
+  personal dashboard to monitor homelab hardware, containers, and service status. built with react and vite.
+
+- **ahhs (a humble home server)**  
+  proxmox home server hosting 20+ self-hosted services, private remote access, and automated backups.
+
+- **[smarth2wo](https://smarth2wo.tech/)**  
+  smart water dispenser with remote monitoring and maintenance alerts. built with esp32, fastapi, and react.
+
+---
+
+## stack
+
+- **systems & hypervisors:** `proxmox` · `docker` · `linux` · `debian` · `ansible` · `bash`
+- **networking:** `cisco` · `tailscale` · `cloudflare` · `gns3` · `wireshark`
+- **tools:** `git` · `n8n` · `appsheet` · `postman` · `vite`
+- **development:** `python` · `fastapi` · `javascript` · `react` · `next.js` · `supabase` · `sql`
+
+---
+
+## links
+
+- personal website: [charlesterrenal.com](https://charlesterrenal.com)
+- linkedin: [linkedin.com/in/charlesterrenal](https://linkedin.com/in/charlesterrenal)
+- email: [contact@charlesterrenal.com](mailto:contact@charlesterrenal.com)
