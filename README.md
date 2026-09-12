@@ -7,7 +7,7 @@ i work on homelab infrastructure, networking, and internal tools.
 
 - **systems:** proxmox home server running containers, remote access, and local services
 - **networking:** cisco switches, vlans, network simulation, and packet analysis
-- **automation & web:** scripts and pipelines with bash and `n8n`; web apps with python and react
+- **automation & web:** scripts and pipelines with bash and n8n; web apps with python and react
 
 ---
 
@@ -16,7 +16,7 @@ i work on homelab infrastructure, networking, and internal tools.
 - **pve-dashboard**  
   personal dashboard to monitor homelab hardware, containers, and service status. built with react and vite.
 
-- **ahhs (a humble home server)**  
+- **[ahhs](https://github.com/charlesterrenal/ahhs)**  
   proxmox home server hosting 20+ self-hosted services, private remote access, and automated backups.
 
 - **[smarth2wo](https://smarth2wo.tech/)**  
@@ -26,10 +26,10 @@ i work on homelab infrastructure, networking, and internal tools.
 
 ## stack
 
-- **systems & hypervisors:** `proxmox` · `docker` · `linux` · `debian` · `ansible` · `bash`
+- **systems & hypervisors:** `proxmox` · `docker` · `linux` · `ansible`
 - **networking:** `cisco` · `tailscale` · `cloudflare` · `gns3` · `wireshark`
-- **tools:** `git` · `n8n` · `appsheet` · `postman` · `vite`
-- **development:** `python` · `fastapi` · `javascript` · `react` · `next.js` · `supabase` · `sql`
+- **tools:** `git` · `bash` · `n8n` · `postman` · `vite`
+- **development:** `python` · `fastapi` · `react` · `next.js` · `supabase` · `sql`
 
 ---
 
