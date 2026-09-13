@@ -13,7 +13,7 @@ i work on homelab infrastructure, networking, and internal tools.
 
 ## projects
 
-- **pve-dashboard**  
+- **[orbit-dashboard](https://github.com/charlesterrenal/orbit-dashboard)**  
   personal dashboard to monitor homelab hardware, containers, and service status. built with react and vite.
 
 - **[ahhs](https://github.com/charlesterrenal/ahhs)**  
