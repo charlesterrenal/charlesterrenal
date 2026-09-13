@@ -13,8 +13,8 @@ i work on homelab infrastructure, networking, and internal tools.
 
 ## projects
 
-- **[orbit-dashboard](https://github.com/charlesterrenal/orbit-dashboard)**  
-  personal dashboard to monitor homelab hardware, containers, and service status. built with react and vite.
+- **[charlesterrenal.com](https://charlesterrenal.com)**  
+  minimalist personal portfolio to showcase my projects and writing. built with react and tailwind.
 
 - **[ahhs](https://github.com/charlesterrenal/ahhs)**  
   proxmox home server hosting 20+ self-hosted services, private remote access, and automated backups.
