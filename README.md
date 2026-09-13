@@ -19,6 +19,9 @@ i work on homelab infrastructure, networking, and internal tools.
 - **[ahhs](https://github.com/charlesterrenal/ahhs)**  
   proxmox home server hosting 20+ self-hosted services, private remote access, and automated backups.
 
+- **[orbit-dashboard](https://github.com/charlesterrenal/orbit-dashboard)**  
+  personal dashboard to monitor homelab hardware, containers, and service status. built with react and vite.
+
 - **[smarth2wo](https://smarth2wo.tech/)**  
   smart water dispenser with remote monitoring and maintenance alerts. built with esp32, fastapi, and react.
 
